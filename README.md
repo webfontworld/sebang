@@ -1,5 +1,3 @@
-# sebang
-
 
 # 세방 고딕체(SebangGothic)
 
